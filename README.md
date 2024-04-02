@@ -1,3 +1,3 @@
 # Верстка многостраничного сайта с мобильной адаптацией.
 ## HTML, CSS, JS
-### использование гугл карты
+### https://lansvetyk.github.io/ForestTravel/main.html
